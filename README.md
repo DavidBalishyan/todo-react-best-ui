@@ -18,7 +18,10 @@ This project uses
 </a>
 
 # React js
-https://react.dev/
+
+<a href="https://react.dev/">
+    <img src="./public/vite.svg"/>
+</a>
 
 # For Css
 
