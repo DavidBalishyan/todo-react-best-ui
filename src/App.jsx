@@ -77,11 +77,10 @@ const App = () => {
             ))}
             {currentTodos.length === 0 && (
               <li className="has-text-grey-light has-text-centered">
-                No tasks to display.
+                Nothing to do, it looks like you are free!
               </li>
             )}
           </ul>
-
           {todos.length > 0 && (
             <nav
               className="pagination is-centered mt-4"

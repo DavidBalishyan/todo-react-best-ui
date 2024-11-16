@@ -20,9 +20,10 @@ This project uses
 # React js
 
 <a href="https://react.dev/">
-    <img src="./public/vite.svg"/>
+    <img src="./src/assets/react.svg"/>
 </a>
 
 # For Css
+
 
 Bulma css - https://bulma.io/
