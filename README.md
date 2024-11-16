@@ -11,19 +11,18 @@ Currently, two official plugins are available:
 
 This project uses 
 
-# Vite js
+# For javascript
 
 <a href="https://vite.dev/">
     <img src="./public/vite.svg"/>
 </a>
 
-# React js
-
 <a href="https://react.dev/">
-    <img src="./src/assets/react.svg"/>
+    <img src="./public/react.svg"/>
 </a>
 
 # For Css
 
-
-Bulma css - https://bulma.io/
+<a href="https://bulma.io/">
+    <img src="./public/bulmacss.jpg"/>
+</a>
