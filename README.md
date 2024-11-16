@@ -14,11 +14,11 @@ This project uses
 # For javascript
 
 <a href="https://vite.dev/">
-    <img src="./public/vite.svg"/>
+    <img src="./public/vite.jpg"/>
 </a>
 
 <a href="https://react.dev/">
-    <img src="./public/react.svg"/>
+    <img src="/public/React.png"/>
 </a>
 
 # For Css
