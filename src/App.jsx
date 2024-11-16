@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-
-document.title = "Todo app in reactjs"
+//no css, using bulmacss for styling
+document.title = "Todo app in reactjs";
 
 const App = () => {
   const [todos, setTodos] = useState([]);
