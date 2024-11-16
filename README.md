@@ -11,10 +11,14 @@ Currently, two official plugins are available:
 
 This project uses 
 
-# For Javascript
+# Vite js
 
-Vitejs  - https://vite.dev/
-Reactjs  - https://react.dev/
+<a href="https://vite.dev/">
+    <img src="./public/vite.svg"/>
+</a>
+
+# React js
+https://react.dev/
 
 # For Css
 
