@@ -37,7 +37,7 @@ const App = () => {
   return (
     <div className="section">
       <div className="container">
-        <h1 className="title has-text-centered is-3 mb-6">Todo app in react js</h1>
+        <h1 className="title has-text-centered is-3 mb-6">Todo app(React)</h1>
         <div className="box">
           <div className="field is-grouped">
             <div className="control is-expanded">
